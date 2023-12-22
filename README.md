@@ -1,16 +1,22 @@
-### Hi there 👋
+# 👋 Hello, I'm Avantika
 
-<!--
-**avantikxa/avantikxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I'm a passionate data scientist, keenly interested in leveraging data to derive meaningful insights and create impactful solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Some of my interests include:
+
+- Creating Visualisations for analytics
+- Implementing Machine Learning and Deep Learning algorithms
+
+### Fun Facts
+
+- 🎓 I'm currently a final year student, pursuing a Bachelor of Technology in Data Science.
+- 🌱 Always looking for new and unique ML and AI project ideas
+- 🎸Particularly enjoy fashion analytics!
+
+
+📫 You can view some more of my projects on my [Kaggle](https://www.kaggle.com/avantikab)
+
+
+ Feel free to explore my repositories and thanks for stopping by!
