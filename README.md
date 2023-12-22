@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a passionate data scientist, keenly interested in leveraging data to derive meaningful insights and create impactful solutions
+I'm a passionate data scientist, interested in leveraging data to derive meaningful insights and create impactful solutions
 
 🚀 Some of my interests include:
 
