@@ -11,7 +11,7 @@ I'm a passionate data scientist, keenly interested in leveraging data to derive 
 
 ### Quick facts
 
-- 🎓 I'm currently a final year student, pursuing a Bachelor of Technology in Data Science.
+- 🎓 Currently a final year student, pursuing a Bachelor of Technology in Data Science.
 - 🌱 Always looking for new and unique ML and AI project ideas
 - 🎸Particularly enjoy fashion analytics!
 
