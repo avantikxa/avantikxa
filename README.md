@@ -9,7 +9,7 @@ I'm a passionate data scientist, keenly interested in leveraging data to derive 
 - Creating Visualisations for analytics
 - Implementing Machine Learning and Deep Learning algorithms
 
-### Fun Facts
+### Quick facts
 
 - 🎓 I'm currently a final year student, pursuing a Bachelor of Technology in Data Science.
 - 🌱 Always looking for new and unique ML and AI project ideas
