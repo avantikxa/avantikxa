@@ -12,7 +12,8 @@ I'm a passionate data scientist, interested in leveraging data to derive meaning
 ### Quick facts
 
 - 🎓 Graduated with a 4 year Bachelors in Technology- Data Science. Currently Persuing a Masters of Science in Business Analytics.
-- 🎸Particularly enjoy fashion analytics!
+- 🎸Always keeping up with the latest trends in deep learning and AI.
+- Current interest : Time Series forecasting!
 
 
 📫 You can view some more of my projects on my [Kaggle](https://www.kaggle.com/avantikab)
