@@ -1,3 +1,3 @@
 ### About Me
-Data scientist, fashion and media-tech enthusiast
+Agentic AI Engineer with a personal hyperfixation on fashion and media-tech
 
